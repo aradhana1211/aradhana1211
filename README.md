@@ -27,7 +27,7 @@
 - 🤝 Open to exciting development opportunities and collaborations.
 
 <p align="right">
-  <img src="./assets/coder-girl.gif"
+  <img src="coder-girl.gif"
        width="350"
        alt="Girl coding on laptop" />
 </p>
