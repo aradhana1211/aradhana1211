@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aradhana Valva</h1>
 
 <h3 align="center">
-  Frontend-Focused Full Stack Developer | React.js | Angular | Node.js| Laravel
+  Frontend-Focused Full Stack Developer | React.js | Angular | Node.js | Laravel
 </h3>
 
 <p align="center">
@@ -12,13 +12,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aradhana-valva-2205a8134/">LinkedIn</a> •
   <a href="mailto:aaradhana.valva@gmail.com">Email</a>
+  <a href="https://www.instagram.com/_a_for_aaru_/">Instagram</a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Frontend-Focused Full Stack Developer with 4+ years of experience.
+- 💼 Frontend-Focused Full Stack Developer with 6+ years of experience.
 - ⚛️ Specialized in React.js, Angular and JavaScript.
 - 🛠️ Experienced in Node.js, Laravel, PHP and REST API integration.
 - 🎨 Passionate about clean UI, reusable components and responsive design.
