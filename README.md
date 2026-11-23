@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aradhana-valva-2205a8134/">LinkedIn</a> •
-  <a href="mailto:aaradhana.valva@gmail.com">Email</a>•
+  <a href="mailto:aaradhana.valva@gmail.com">Email</a>• 
   <a href="https://www.instagram.com/_a_for_aaru_/">Instagram</a>
 </p>
 
@@ -44,14 +44,6 @@
 - 🐍 Python
 - 🔍 Python fundamentals and problem-solving
 - 🚀 Exploring backend development with Python
-
-## 🚀 Featured Projects
-
-### 1. ISI Abroad CRM
-Student management and advisor management platform.
-
-### 2. ReactLab
-React.js practice, reusable components, hooks and coding challenges.
 
 ## 📊 GitHub Statistics
 
