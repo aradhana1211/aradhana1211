@@ -26,6 +26,12 @@
 - 🚀 Currently exploring modern frontend and full-stack technologies.
 - 🤝 Open to exciting development opportunities and collaborations.
 
+<p align="right">
+  <img src="./assets/coder-girl.gif"
+       width="350"
+       alt="Girl coding on laptop" />
+</p>
+
 ## 💻 Tech Stack
 
 **Frontend**
