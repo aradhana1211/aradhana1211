@@ -53,9 +53,10 @@
 
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aradhana1211/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 <p align="center">
   <b>Building. Learning. Improving. 🚀</b>
 </p>
