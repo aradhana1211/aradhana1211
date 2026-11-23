@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aradhana-valva-2205a8134/">LinkedIn</a> •
   <a href="mailto:aaradhana.valva@gmail.com">Email</a>• 
-  <a href="https://www.instagram.com/_a_for_aaru_/">Instagram</a>
+  <a href="https://www.instagram.com/_a_for_aaru_/"> Instagram</a>
 </p>
 
 ---
@@ -30,11 +30,14 @@
 
 **Frontend**
 - React.js, Redux, Angular, AngularJs, JavaScript (ES6+) , TypeScript
-- HTML5, CSS3, Bootstrap, Tailwind CSS
+- HTML5, CSS3, Bootstrap, Tailwind CSS, Material-Ui
 
 **Backend**
 - PHP, Laravel, Node.js
-- REST APIs
+- REST APIs, GraphQL
+
+**Database**
+- Mongodb, MySQL
 
 **Tools**
 - Git, GitHub, VS Code, Postman, AI Assistated (Copilot, Chatgpt, Codex, OpenAi, Claude)
@@ -47,12 +50,6 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aradhana1211&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhana1211&layout=compact&theme=tokyonight)
-
-
----
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
