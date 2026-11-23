@@ -51,8 +51,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhana1211&layout=compact&theme=tokyonight)
 
----
 
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <p align="center">
   <b>Building. Learning. Improving. 🚀</b>
 </p>
